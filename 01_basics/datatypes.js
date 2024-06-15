@@ -15,13 +15,14 @@
 // console.log(typeof(mydate))
 // const myarray=[0,1,2,3,4,true,"ridhima"]
 // console.log(myarray);
-const obj1={1:"a",2:"b"}
-const tinderUser={}
-tinderUser.id='123abc'
-tinderUser.email="ridhima@google.com"
-tinderUser.isloggedin=false
-console.log(tinderUser);
-console.log(Object.keys(tinderUser));
-console.log(Object.values(tinderUser));
-console.log(Object.entries(tinderUser));
-console.log(tinderUser.hasOwnProperty('isloggedin'));
+// const obj1={1:"a",2:"b"}
+// const tinderUser={}
+// tinderUser.id='123abc'
+// tinderUser.email="ridhima@google.com"
+// tinderUser.isloggedin=false
+// console.log(tinderUser);
+// console.log(Object.keys(tinderUser));
+// console.log(Object.values(tinderUser));
+// console.log(Object.entries(tinderUser));
+// console.log(tinderUser.hasOwnProperty('isloggedin'));
+
